@@ -1,0 +1,9 @@
+# Ignorar a pasta de configurações locais do VS Code
+.vscode/
+
+# Ignorar arquivos de histórico e estados locais do VS Code
+.history/
+*.code-workspace
+
+# Ignorar logs de erro que o VS Code ou extensões possam gerar
+*.log
